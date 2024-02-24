@@ -23,7 +23,7 @@ avatar_image: "/img/profile_picture1.JPG"
 #-------------------------------
 # Contact links
 linkedln: "https://linkedln.com/#" # Add your linkedln handle
-github: "https://github.com/#"  # Add your github handle
+github: "https://github.com/Felix-YH#"  # Add your github handle
 
 paginate: 6
 paginate_path: "/page/:num"
