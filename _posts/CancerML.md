@@ -1,3 +1,11 @@
+---
+layout: post
+title:  Prime Numbers with Python
+image: "/posts/primes_image.jpeg"
+tags: [Python, Primes]
+---
+
+
 # Overview
 This report distinguishes itself by its emphasis on feature visualization, selection techniques and  that set it apart from other projects. It employs various methods for feature selection, including correlation-based selection, univariate feature selection, recursive feature elimination, and recursive feature elimination with cross-validation Additionally, Principal Component Analysis is employed to gain insights into the optimal number of components. 
 
