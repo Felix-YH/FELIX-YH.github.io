@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How Good Was the Campaign?
-image: "/posts/ab-testing-title-img.png"
+image: "/posts/chi-square-test.png"
 tags: [AB Testing, Hypothesis Testing, Chi-Square, Python]
 ---
 
