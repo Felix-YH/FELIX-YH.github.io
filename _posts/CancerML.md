@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Prime Numbers with Python
+title:  "Predicting Tumor Status" 
 image: "/posts/primes_image.jpeg"
 tags: [Python, Primes]
 ---
