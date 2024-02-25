@@ -1,6 +1,6 @@
 # Remote theme directory
-# remote_theme: analytics-link/analytics-link.github.io
-remote_theme: benbalter/retlab
+remote_theme: analytics-link/analytics-link.github.io
+
 
 plugins:
   - jekyll-paginate
